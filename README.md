@@ -5,10 +5,10 @@ A self-directed home lab built to develop and demonstrate junior system administ
 
 ## Lab Environment
 
-- **Hypervisor:** VirtualBox  
-- **Host machine:** *(brief specs — RAM, CPU)*
+- **Hypervisor:** VirtualBox  (Apple Silicon)
+- **Host machine:** * Macbook, Apple M3, 16GB RAM
 - **VMs used:**
-  - Windows 11 (client)
+  - Windows 11 ARM64 (client)
   - Windows Server 2022 (domain controller)
   - Linux (Ubuntu Server / Rocky Linux / etc.)
 
