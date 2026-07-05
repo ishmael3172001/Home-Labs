@@ -16,7 +16,7 @@ A self-directed home lab built to develop and demonstrate junior system administ
 
 | # | Lab | Topics Covered |
 |---|-----|-----------------|
-| 01 | [Windows 11 Client Install & Troubleshooting](./01-windows-client-install-troubleshoot) | OS installation, driver/network troubleshooting, system file repair |
+| 01 | [Windows 11 Client Install & Troubleshooting](./01-windows-client-install-troubleshoot) | OS installation, driver/network troubleshooting |
 | 02 | [Windows Server & Active Directory Domain Services](./02-windows-server-adds) | Server build, AD DS role installation |
 | 03 | [Users, Groups, OUs & Password Management](./03-users-groups-ous) | AD account and organizational unit management |
 | 04 | [Domain-Joined Client](./04-domain-join) | Joining a client to the domain, domain login |
