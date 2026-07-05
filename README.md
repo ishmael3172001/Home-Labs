@@ -1,4 +1,4 @@
-# Sysadmin Home Lab
+#  Home Lab
 
 A self-directed home lab built to develop and demonstrate junior system administrator skills, including Windows client/server administration, Active Directory, networking services, file permissions, and Linux administration.
 
