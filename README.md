@@ -1,15 +1,7 @@
-#  Home Lab
+#  Home Labs
 
 A self-directed home lab built to develop and demonstrate junior system administrator skills, including Windows client/server administration, Active Directory, networking services, file permissions, and Linux administration.
 
-## About Me
-
-Bachelor's student in Computer Science at WGU, pursuing a junior system administrator role.
-
-**Certifications:**
-- CompTIA Security+
-- ITIL v4 Foundation
-- LPI Linux Essentials
 
 ## Lab Environment
 
