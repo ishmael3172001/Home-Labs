@@ -5,7 +5,7 @@ A self-directed home lab built to develop and demonstrate junior system administ
 
 ## Lab Environment
 
-- **Hypervisor:** VirtualBox / VMware Workstation Player *(pick one and note it)*
+- **Hypervisor:** VirtualBox 
 - **Host machine:** *(brief specs — RAM, CPU)*
 - **VMs used:**
   - Windows 11 (client)
